@@ -1,6 +1,6 @@
-# Life Through a Lens
+# Odessey Restaurant
 
-Life Through a Lens is a personal photography portfolio. The site highlights a unique perspective through various sections. Visitors can explore candid portraits, landscapes, and moments that capture both the light and dark sides of life.
+Welcome to our oasis in the heart of Nairobi, where culinary passion meets the finest local ingredients. Every dish on our menu is a masterpiece, thoughtfully crafted to deliver an unforgettable symphony of flavors. We don't just serve meals; we create memories. Escape the ordinary and let your senses revel in a dining experience that is simply extraordinary.
 
 🔗 View Live Site on GitHub Pages
 
